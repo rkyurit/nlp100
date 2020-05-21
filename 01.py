@@ -1,0 +1,1 @@
+print(''.join(([c if i%2==1 else '' for i, c in enumerate(list('パタトクカシーー'),1)])))
